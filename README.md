@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Mohammad Kashif
 
-<!--
-**kashifnazmi/kashifnazmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student | 💻 Frontend Developer  
+🌍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 B.Tech (3rd Year) student at **Naraina Group of Institutions (AKTU)**
+- 💻 Frontend Developer passionate about building clean & responsive UIs
+- 🌱 Currently learning **Advanced JavaScript, React & Next.js**
+- 🎯 Career goal: **Frontend / Web Developer**
+
+---
+
+## 🛠️ Skills
+- **Frontend:** HTML, CSS, JavaScript
+- **Frameworks:** React (learning), Next.js (learning)
+- **Styling:** Tailwind CSS
+- **Tools:** Git, GitHub, VS Code
+- **Other:** MS Word, Excel, PowerPoint
+
+---
+
+## 📂 Projects
+### 🍽️ Restaurant Management System
+- HTML, CSS, JavaScript  
+- Features: Menu display, order management
+
+### 🏨 Hotel Management System
+- Frontend-based project
+- Clean UI & responsive layout
+
+### 🌐 Personal Portfolio
+- Showcases skills, projects & contact details
+
+👉 More projects available in my repositories
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: *(add your LinkedIn link)*
+- 📧 Email: *(optional)*
+- 🌐 Portfolio: *(when ready)*
+
+---
+
+⭐ If you like my work, consider starring my repositories!
